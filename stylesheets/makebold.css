@@ -1,0 +1,4 @@
+/* makes all <a class="makebold" /> bold */
+a.makebold {
+    font-weight: bold;
+}
